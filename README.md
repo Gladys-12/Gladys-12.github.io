@@ -14,7 +14,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Overview
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gladys-12.github.io./)
+- Live Site URL: [live site URL ](https://gladys-12.github.io./)
 
 ## My process
 ### Built with
@@ -35,7 +35,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 -CSS Styling: Gained experience in styling with CSS.
 
 ## Author
-- LinkedIn-[Add your name here](www.linkedin.com/in/preethi-gladys-069130256)
+- LinkedIn-[Shakati Preethi Gladys](www.linkedin.com/in/preethi-gladys-069130256)
 
 
 
